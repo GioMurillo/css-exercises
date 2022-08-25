@@ -1,4 +1,4 @@
-p {
+.cool {
     background-color: rgb(255, 100, 100);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
@@ -8,7 +8,7 @@ p {
     font-size: 36px;
 }
 
-.cooler {
+.cool.cooler {
     font-size: 24px;
 }
 
