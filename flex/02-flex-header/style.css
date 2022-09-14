@@ -4,10 +4,11 @@
   margin: 4px;
   padding: 4px;
   display: flex;
+  min-width: 0;
   flex-wrap: nowrap;
   justify-content: space-between;
   align-items: center;
-  border: 2px solid black;
+  /* border: 2px solid black; */
 }
 
 .logo {
@@ -17,7 +18,7 @@
   background: white;
   padding: 4px 32px;
   margin: 0 2em;
-  border: 2px solid black;
+  /* border: 2px solid black; */
 }
 
 ul {
@@ -28,7 +29,7 @@ ul {
   padding-left: 0;
 
   display: flex;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 
 a {
@@ -38,15 +39,15 @@ a {
   margin: 0.25em;
   /* this removes the line under the links */
   text-decoration: none;
-  border: 2px solid green;
+  /* border: 2px solid green; */
 }
 
 .left-links {
-  border: 2px solid black;
+  /* border: 2px solid black; */
   justify-content: flex-start;
 }
 
 .right-links {
-  border: 2px solid black;
+  /* border: 2px solid black; */
   justify-content: flex-end;
 }
