@@ -5,6 +5,7 @@
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-between;
+  align-items: center;
   border: 2px solid black;
 }
 
@@ -33,10 +34,10 @@ a {
   border: 2px solid black;
 }
 
- /* .left-links {
-
+  .left-links {
+  border: 2px solid black;
 }
 
 .right-links {
-
-} */
+  border: 2px solid black;
+}
