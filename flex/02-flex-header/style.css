@@ -22,6 +22,10 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  /* this removes the indentation on the list items*/
+  margin-left: 0;
+  padding-left: 0;
+
   display: flex;
   border: 2px solid red;
 }
