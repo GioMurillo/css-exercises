@@ -16,6 +16,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: 0 2em;
   border: 2px solid black;
 }
 
@@ -34,6 +35,7 @@ a {
   font-size: 22px;
   background: white;
   padding: 0.25em .15em;
+  margin: 0.25em;
   /* this removes the line under the links */
   text-decoration: none;
   border: 2px solid green;
