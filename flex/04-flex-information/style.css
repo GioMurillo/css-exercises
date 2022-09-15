@@ -34,10 +34,11 @@ img {
 
 .plants {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   list-style-type: none;
   margin-left: 0;
   padding-left: 0;
+  gap: 52px
 }
 
 .text {
@@ -48,5 +49,4 @@ img {
 
 li {
   width: 200px;
-
 }
