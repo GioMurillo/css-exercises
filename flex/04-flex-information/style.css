@@ -29,6 +29,7 @@ img {
 .title {
   display: flex;
   justify-content: center;
+  margin-bottom: 32px;
 }
 
 .plants {
@@ -47,4 +48,5 @@ img {
 
 li {
   width: 200px;
+
 }
