@@ -31,7 +31,10 @@ img {
   justify-content: center;
 }
 
-ul {
+.plants {
   display: flex;
   justify-content: space-around;
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
 }
