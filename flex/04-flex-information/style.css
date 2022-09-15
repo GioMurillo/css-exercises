@@ -24,3 +24,9 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* adding my code at the bottom so I can check against solution quicker */
+.title {
+  display: flex;
+  justify-content: center;
+}
