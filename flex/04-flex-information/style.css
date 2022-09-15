@@ -42,4 +42,9 @@ img {
 .text {
   display: flex;
   flex-wrap: wrap;
+  text-align: center;
+}
+
+li {
+  width: 200px;
 }
