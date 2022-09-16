@@ -75,3 +75,12 @@ button.cancel {
 .icon {
   flex: none;
 }
+
+.header-container {
+  display: flex;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 18px;
+}
