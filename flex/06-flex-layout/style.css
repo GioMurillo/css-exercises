@@ -39,6 +39,7 @@ body {
   display: flex;
   justify-content: space-between;
   width: 95vw;
+  padding: 16px;
 }
 
 a {
@@ -63,6 +64,8 @@ ul {
   display: flex;
   justify-content: space-between;
   width: 95vw;
+  background-color: #eee;
+  padding: 16px;
 }
 
 .left-links, .right-links {
