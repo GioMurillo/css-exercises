@@ -27,9 +27,18 @@ input {
 }
 
 /* my answer */
+body {
+  display: flex;
+  flex: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
+  width: 95vw;
 }
 
 a {
@@ -52,4 +61,5 @@ ul {
 .footer {
   display: flex;
   justify-content: space-between;
+  width: 95vw;
 }
