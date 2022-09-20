@@ -63,3 +63,9 @@ ul {
   justify-content: space-between;
   width: 95vw;
 }
+
+.left-links, .right-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
