@@ -63,3 +63,16 @@ ul {
   box-sizing: border-box;
   padding-left: 16px;
 }
+
+.card-deck {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 32px;
+  gap: 16px;
+}
+
+.card {
+  width: 300px;
+  height: auto;
+  padding: 16px
+}
