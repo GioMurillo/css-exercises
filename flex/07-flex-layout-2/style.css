@@ -60,5 +60,6 @@ ul {
 
 .sidebar {
   width: 300px;
-  padding: 16px;
+  box-sizing: border-box;
+  padding-left: 16px;
 }
