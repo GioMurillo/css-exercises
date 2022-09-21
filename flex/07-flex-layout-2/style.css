@@ -40,3 +40,8 @@ body, ul, .footer, .header {
   font-weight: 900;
   padding-left: 16px;
 }
+
+.footer {
+  align-items: center;
+  justify-content: center;
+}
