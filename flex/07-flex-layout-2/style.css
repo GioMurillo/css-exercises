@@ -81,4 +81,5 @@ ul {
 
 .content {
   display: flex;
+  height: 85vh;
 }
